@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cT9ZTBKdf5iZLOrLzgvHiDvyFrELtwy43cR/YCID2ZQaMFa0w5VSMsPflGwjSlKfkd5enXuTiuObSaJuHyXlSQ==",
+  "dgSpecHash": "2pNt0lmNRg5Ah1/fKU2P+G5WCwsI3BvijG3bqPJiuFmp697FUQIs+oXdVdWyRCY9k3V+uzONYBnYx6lCGwvDaQ==",
   "success": true,
-  "projectFilePath": "/Users/matthewquayle/code/image/image.csproj",
+  "projectFilePath": "/Users/matthewquayle/code/Image/image.csproj",
   "expectedPackageFiles": [
     "/Users/matthewquayle/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/matthewquayle/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",

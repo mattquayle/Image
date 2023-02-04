@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matthewquayle/code/image/image.csproj": {}
+    "/Users/matthewquayle/code/Image/image.csproj": {}
   },
   "projects": {
-    "/Users/matthewquayle/code/image/image.csproj": {
+    "/Users/matthewquayle/code/Image/image.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matthewquayle/code/image/image.csproj",
+        "projectUniqueName": "/Users/matthewquayle/code/Image/image.csproj",
         "projectName": "image",
-        "projectPath": "/Users/matthewquayle/code/image/image.csproj",
+        "projectPath": "/Users/matthewquayle/code/Image/image.csproj",
         "packagesPath": "/Users/matthewquayle/.nuget/packages/",
-        "outputPath": "/Users/matthewquayle/code/image/obj/",
+        "outputPath": "/Users/matthewquayle/code/Image/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matthewquayle/.nuget/NuGet/NuGet.Config"

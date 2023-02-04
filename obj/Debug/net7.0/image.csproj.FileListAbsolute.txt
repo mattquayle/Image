@@ -13,3 +13,9 @@
 /Users/matthewquayle/code/image/obj/Debug/net7.0/image.pdb
 /Users/matthewquayle/code/image/obj/Debug/net7.0/image.genruntimeconfig.cache
 /Users/matthewquayle/code/image/obj/Debug/net7.0/ref/image.dll
+/Users/matthewquayle/code/Image/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/matthewquayle/code/Image/bin/Debug/net7.0/SixLabors.ImageSharp.dll
+/Users/matthewquayle/code/Image/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/matthewquayle/code/Image/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/matthewquayle/code/Image/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/matthewquayle/code/Image/obj/Debug/net7.0/image.csproj.CopyComplete
