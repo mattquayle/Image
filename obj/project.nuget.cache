@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cT9ZTBKdf5iZLOrLzgvHiDvyFrELtwy43cR/YCID2ZQaMFa0w5VSMsPflGwjSlKfkd5enXuTiuObSaJuHyXlSQ==",
+  "success": true,
+  "projectFilePath": "/Users/matthewquayle/code/image/image.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthewquayle/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/matthewquayle/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/matthewquayle/.nuget/packages/sixlabors.imagesharp/2.1.3/sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "/Users/matthewquayle/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/matthewquayle/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/matthewquayle/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/matthewquayle/code/image/bin/Debug/net7.0/image
+/Users/matthewquayle/code/image/bin/Debug/net7.0/image.deps.json
+/Users/matthewquayle/code/image/bin/Debug/net7.0/image.runtimeconfig.json
+/Users/matthewquayle/code/image/bin/Debug/net7.0/image.dll
+/Users/matthewquayle/code/image/bin/Debug/net7.0/image.pdb
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.csproj.AssemblyReference.cache
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.AssemblyInfoInputs.cache
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.AssemblyInfo.cs
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.csproj.CoreCompileInputs.cache
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.dll
+/Users/matthewquayle/code/image/obj/Debug/net7.0/refint/image.dll
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.pdb
+/Users/matthewquayle/code/image/obj/Debug/net7.0/image.genruntimeconfig.cache
+/Users/matthewquayle/code/image/obj/Debug/net7.0/ref/image.dll
